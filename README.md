@@ -18,7 +18,7 @@ Este é o padrão para a criação de um servidor API em AdonisJs, ele vem pré-
 5. Migrations and seeds
 
 
-![enter image description here](https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif)
+![ok](https://media.giphy.com/media/gLcUG7QiR0jpMzoNUu/giphy.gif)
 
 Made with :heart: by <a href="https://github.com/fabramosdev" target="_blank">Fabiano Ramos</a>
 
